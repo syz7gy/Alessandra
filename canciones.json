@@ -1,0 +1,92 @@
+[
+    {
+        "titulo": "Echo",
+        "artista": "Incubus",
+        "enlace": "https://youtu.be/gmJQvCS1T3c?si=KN0Vr6ugQqLDQrOc",
+        "portada": "https://i.scdn.co/image/ab67616d0000b273289320ef78f164a472698926"
+    },
+    {
+        "titulo": "No Ordinary Love",
+        "artista": "Sade",
+        "enlace": "https://youtu.be/_WcWHZc8s2I?si=N_0rUbmiigWOE10P",
+        "portada": "https://cdn-images.dzcdn.net/images/cover/975b8e921822b6e01de1663ef02cee08/0x1900-000000-80-0-0.jpg"
+    },
+    {
+        "titulo": "Paradise",
+        "artista": "Sade",
+        "enlace": "https://youtu.be/C0BLKudnyNo?si=QnnxR5MHB8WWoy8Z",
+        "portada": "https://i.scdn.co/image/ab67616d0000b2738d6c05fb48d5834d425128bf"
+    },
+    {
+        "titulo": "Is It A Crime",
+        "artista": "Sade",
+        "enlace": "https://youtu.be/NYz8xs163YU?si=GMFXkJw2ryHRgIgo",
+        "portada": "https://http2.mlstatic.com/D_NQ_NP_789978-MLU69239600227_052023-O.webp"
+    },
+    {
+        "titulo": "Kiss From A Rose",
+        "artista": "Seal",
+        "enlace": "https://youtu.be/Kwdweif1YI0?si=nnF125GQx3ZJDszm",
+        "portada": "https://i.scdn.co/image/ab67616d0000b27333d4866ed921300e8ef50808"
+    },
+    {
+        "titulo": "Minerva",
+        "artista": "Deftones",
+        "enlace": "https://youtu.be/mLa0-sQg1YM?si=20ibfRsqISyoj06n",
+        "portada": "https://i.scdn.co/image/ab67616d0000b273c09a38cf054085b18eeb88ae"
+    },
+    {
+        "titulo": "I Can't Tell You Why",
+        "artista": "Eagles",
+        "enlace": "https://youtu.be/Odcn6qk94bs?si=jR7kmP66iCIK6-bA",
+        "portada": "https://shop-millercollective.com/cdn/shop/files/the-eagles-the-long-run-359920.jpg?v=1722353972"
+    },
+    {
+        "titulo": "Is This Love",
+        "artista": "Whitesnake",
+        "enlace": "https://youtu.be/Xj8uuBi48Hw?si=rxQLFZ-EEJdPrnz3",
+        "portada": "https://i.scdn.co/image/ab67616d0000b273eeac17b787eeec6f10774956"
+    },
+    {
+        "titulo": "Disintegration",
+        "artista": "The Cure",
+        "enlace": "https://youtu.be/__EVr7CF3Hw?si=Jflo1Eow0A1F19kJ",
+        "portada": "https://i.scdn.co/image/ab67616d0000b273641c33269d4aad8c9e77eae5"
+    },
+    {
+        "titulo": "Lovesong",
+        "artista": "The Cure",
+        "enlace": "https://youtu.be/90A5Iys9u3w?si=v-278QVeVlFWG56v",
+        "portada": "https://i.scdn.co/image/ab67616d0000b273641c33269d4aad8c9e77eae5"
+    },
+    {
+        "titulo": "Pictures Of You",
+        "artista": "The Cure",
+        "enlace": "https://youtu.be/mqJonDvo7bs?si=QH_KNHkCFgpET60g",
+        "portada": "https://i.scdn.co/image/ab67616d0000b273641c33269d4aad8c9e77eae5"
+    },
+    {
+        "titulo": "All I Need",
+        "artista": "Radiohead",
+        "enlace": "https://youtu.be/FM7ALFsOH4g?si=j_AcHpELogbBG9_n",
+        "portada": "https://i.scdn.co/image/ab67616d0000b273de3c04b5fc750b68899b20a9"
+    },
+    {
+        "titulo": "Georgy Porgy",
+        "artista": "Toto",
+        "enlace": "https://youtu.be/EWIgEtkE3GA?si=6CHm9dM5AQ2nUGO3",
+        "portada": "https://cdn-images.dzcdn.net/images/cover/18a61113ea28b3261a97c6ca167f00ba/0x1900-000000-80-0-0.jpg"
+    },
+    {
+        "titulo": "Rosanna",
+        "artista": "Toto",
+        "enlace": "https://youtu.be/qmOLtTGvsbM?si=t-JUiTFEoqh5k6gn",
+        "portada": "https://i.scdn.co/image/ab67616d0000b2734a052b99c042dc15f933145b"
+    },
+    {
+        "titulo": "Africa",
+        "artista": "Toto",
+        "enlace": "https://youtu.be/FTQbiNvZqaY?si=2VCCBEtlsCyCuamC",
+        "portada": "https://i.scdn.co/image/ab67616d0000b2734a052b99c042dc15f933145b"
+    }
+]
